@@ -11,4 +11,5 @@ Perform emotion analysis using NRC Emotion lexicon,
 Sort reviews based on emotion,
 Visualise the data over time axis- Analysis trends of customer's emotion, compare emotion.
 
+- Server.R and ui.R contain the sourcecode of the project.
 -Sample.pdf contains some screenshot of the application.
